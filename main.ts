@@ -1,3 +1,5 @@
+// Writes the poem to /output/entry.txt.
+// The poem is exactly 219 characters, with no trailing newline.
 import fs from 'node:fs';
 
 const POEM = `You held the door.
